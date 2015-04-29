@@ -1,0 +1,49 @@
+Initialize engine version: 5.0.0f4 (5b98b70ebeb9)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA NVS 4200M   (ID=0x1057)
+    Vendor:   NVIDIA
+    VRAM:     978 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\tobias.kjellberg\Documents\Flappybird\flappybird_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\tobias.kjellberg\Documents\Flappybird\flappybird_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\tobias.kjellberg\Documents\Flappybird\flappybird_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\tobias.kjellberg\Documents\Flappybird\flappybird_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\tobias.kjellberg\Documents\Flappybird\flappybird_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\tobias.kjellberg\Documents\Flappybird\flappybird_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.304 seconds
+desktop: 1600x900 60Hz; virtual: 1600x900 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\tobias.kjellberg\Documents\Flappybird\flappybird_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\tobias.kjellberg\Documents\Flappybird\flappybird_Data\Managed\System.dll (this message is harmless)
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 10.559409 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 186.
+Total: 0.334899 ms (FindLiveObjects: 0.027120 ms CreateObjectMapping: 0.030818 ms MarkObjects: 0.259701 ms  DeleteObjects: 0.016025 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.328915 ms
+
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 174.
+Total: 0.512417 ms (FindLiveObjects: 0.034517 ms CreateObjectMapping: 0.032051 ms MarkObjects: 0.401057 ms  DeleteObjects: 0.042735 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.392966 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 186.
+Total: 0.454477 ms (FindLiveObjects: 0.033695 ms CreateObjectMapping: 0.031640 ms MarkObjects: 0.366129 ms  DeleteObjects: 0.021367 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.920871 ms
+
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 174.
+Total: 1.252894 ms (FindLiveObjects: 0.029997 ms CreateObjectMapping: 0.845673 ms MarkObjects: 0.339008 ms  DeleteObjects: 0.035750 ms)
+
+SLUUTA
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
